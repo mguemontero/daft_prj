@@ -26,3 +26,5 @@ Links to them:
 
 Openpyxl >> https://openpyxl.readthedocs.io/en/stable/
 Gmail >> https://pypi.org/project/gmail/
+
+Note: Work is in progress.
