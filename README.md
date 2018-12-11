@@ -1,6 +1,6 @@
 # daft_prj
 
-#Summary
+Summary
 
 Script that fetch data from my Gmail account and transfer it to an Excel file.
 Data source: property alerts coming from the popular property website Daft.ie
@@ -24,7 +24,8 @@ Daft.ie for the alerts.
 
 Links to them: 
 
-Openpyxl >> https://openpyxl.readthedocs.io/en/stable/
-Gmail >> https://pypi.org/project/gmail/
+- Openpyxl >> https://openpyxl.readthedocs.io/en/stable/
+- Gmail >> https://pypi.org/project/gmail/
+- Daft >> https://www.daft.ie/
 
 Note: Work is in progress.
