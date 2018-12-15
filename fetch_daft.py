@@ -52,7 +52,7 @@ print ("\n" + "Extraction has been completed!")
 print("\n" + "Alerts in INBOX: %d" %len(alerts))
 print("\n" + "Alerts extracted: %d" %len(extractions))
 
-# Clean up INBOX 
+# Cleanup INBOX 
 
 for alert in alerts:
 	alert.delete()
